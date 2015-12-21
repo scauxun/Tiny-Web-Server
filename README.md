@@ -9,6 +9,8 @@ a learning test from csapp
     cd ..
     ./tiny <port>
 
+    you may add csapp.h to /usr/include
+    
 ###see:
 ####serve_static:
 <img src="serve_static.png" style="width:300; height:200;">
