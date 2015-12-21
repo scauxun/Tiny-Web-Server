@@ -9,7 +9,7 @@ a learning test from csapp
     cd ..
     ./tiny <port>
 
-    you may add csapp.h to /usr/include
+<p>you may add csapp.h to /usr/include
     
 ###see:
 ####serve_static:
